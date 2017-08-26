@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GTestTemplate.dir/main.cpp.o  -o GTestTemplate 

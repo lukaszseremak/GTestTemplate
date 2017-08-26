@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UnitTests.dir/TrailTest.cpp.o  -o UnitTests ../lib/googlemock/libgmock.a ../lib/googlemock/libgmock_main.a ../src/libtemplateLib.a -pthread 
